@@ -30,3 +30,4 @@ D:\VS\tpmodul10_1302223010\tpmodul10_1302223010\obj\Debug\net8.0\refint\tpmodul1
 D:\VS\tpmodul10_1302223010\tpmodul10_1302223010\obj\Debug\net8.0\tpmodul10_1302223010.pdb
 D:\VS\tpmodul10_1302223010\tpmodul10_1302223010\obj\Debug\net8.0\tpmodul10_1302223010.genruntimeconfig.cache
 D:\VS\tpmodul10_1302223010\tpmodul10_1302223010\obj\Debug\net8.0\ref\tpmodul10_1302223010.dll
+D:\VS\tpmodul10_1302223010\tpmodul10_1302223010\obj\Debug\net8.0\tpmodul10_1302223010.sourcelink.json
